@@ -1,4 +1,4 @@
-
+import pandas as pd
 
 def create_network(df, 
 node_colname, 
